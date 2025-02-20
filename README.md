@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently working with personal projects, trying to untangle all things that Python and Git can provide... not too easy 😅
+It's fun atleast!
+
 <!--
 **Chillley2/Chillley2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
